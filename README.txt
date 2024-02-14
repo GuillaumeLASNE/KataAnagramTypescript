@@ -2,6 +2,9 @@ Anagram
 
 From: https://codingdojo.org/kata/Anagram/
 
+To Run the tests:
+npm test
+
 About this Kata
 This Kata was posted as the problem to be solved in a “self-documenting code contest”.
 
